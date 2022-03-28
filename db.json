@@ -1,0 +1,28 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC Restaurants",
+      "email": "test@test.com",
+      "address": "Chennai",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "McD Restaurants",
+      "address": "Poonamallee",
+      "email": "test2@test2.com"
+    },
+    {
+      "name": "pradeep restaurants",
+      "email": "pradeep@test.com",
+      "address": "new chennai",
+      "id": 3
+    },
+    {
+      "name": "pandiyan restaurants",
+      "email": "pandiyan@test.com",
+      "address": "new florida",
+      "id": 4
+    }
+  ]
+}
